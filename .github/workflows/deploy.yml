@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:  # 수동 실행을 위한 트리거 추가
 
 jobs:
   build:
@@ -27,17 +28,13 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.127.0'
+        hugo-version: '0.129.0'
         extended: true
 
     - name: List image files for debugging
       run: |
         echo "Listing image files in /Resources:"
-        find . -type f -name "edit_environment_variables.png"
-        echo "Listing image files in /content/Resources:"
-        find ./content -type f -name "edit_environment_variables.png"
-        echo "Listing image files in /static/Resources:"
-        find ./static -type f -name "edit_environment_variables.png"
+        find ./static/Resources -type f -name "edit_environment_variables.png"
 
     - name: Build
       run: hugo --minify --gc
