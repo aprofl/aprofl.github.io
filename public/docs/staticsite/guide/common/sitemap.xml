@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/common/%EB%B9%8C%EB%93%9C-%EC%8B%9C-public-%ED%8F%B4%EB%8D%94-%EC%A0%9C%EA%B1%B0/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/common/node.js-%EC%84%A4%EC%B9%98/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/common/%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

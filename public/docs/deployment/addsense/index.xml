@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addsense on My Docs</title>
+    <link>http://localhost:1313/docs/deployment/addsense/</link>
+    <description>Recent content in Addsense on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/deployment/addsense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HUGO Addsense 추가</title>
+      <link>http://localhost:1313/docs/deployment/addsense/hugo-addsense-%EC%B6%94%EA%B0%80/</link>
+      <pubDate>Mon, 24 Jun 2024 02:08:19 +0000</pubDate>
+      <guid>http://localhost:1313/docs/deployment/addsense/hugo-addsense-%EC%B6%94%EA%B0%80/</guid>
+      <description>1. 구글 애드센스 계정 생성 및 광고 단위 만들기 구글 애드센스에 가입합니다. 이미 계정이 있다면 로그인합니다. 애드센스 대시보드에서 &amp;ldquo;광고 단위 만들기&amp;quot;를 클릭하여 새 광고 단위를 만듭니다.</description>
+    </item>
+  </channel>
+</rss>

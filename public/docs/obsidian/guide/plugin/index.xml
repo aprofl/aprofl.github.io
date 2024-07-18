@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on My Docs</title>
+    <link>http://localhost:1313/docs/obsidian/guide/plugin/</link>
+    <description>Recent content in Plugin on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/obsidian/guide/plugin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D2</title>
+      <link>http://localhost:1313/docs/obsidian/guide/plugin/d2/</link>
+      <pubDate>Tue, 02 Jul 2024 00:14:09 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/guide/plugin/d2/</guid>
+      <description>플러그인 설치 Obsidian을 열고 Settings(설정) 아이콘을 클릭합니다. Community plugins(커뮤니티 플러그인) 탭으로 이동합니다. Browse(찾아보기) 버튼을 클릭하고 Obsidian-d2 플러그인을 검색합니다. Install(설치) 버튼을 클릭하여 플러그인을 설치한 후, Enable(활성화) 버튼을 클릭합니다.</description>
+    </item>
+    <item>
+      <title>Templater</title>
+      <link>http://localhost:1313/docs/obsidian/guide/plugin/templater/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/guide/plugin/templater/</guid>
+      <description>Templater 플러그인 설치 및 설정 Templater 플러그인 설치 및 활성화 옵시디언의 설정(Settings)에서 Community Plugins 섹션을 찾습니다. Templater 플러그인을 검색하여 설치하고 활성화합니다.</description>
+    </item>
+  </channel>
+</rss>

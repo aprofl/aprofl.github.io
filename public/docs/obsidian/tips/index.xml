@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on My Docs</title>
+    <link>http://localhost:1313/docs/obsidian/tips/</link>
+    <description>Recent content in Tips on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/obsidian/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>링크가 정상적으로 동작하지 않을때</title>
+      <link>http://localhost:1313/docs/obsidian/tips/%EB%A7%81%ED%81%AC%EA%B0%80-%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EB%95%8C/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/tips/%EB%A7%81%ED%81%AC%EA%B0%80-%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EB%95%8C/</guid>
+      <description>공백이 포함된 경우 [심볼릭 링크](blog/StaticSite/Common/심볼릭링크 설정)&#xD;이런 식으로 링크를 걸면 &amp;ldquo;심볼릭링크 설정&amp;rdquo; 페이지로 링크되지 않고 &amp;ldquo;심볼릭링크&amp;rdquo; 라는 페이지가 새로 생성됩니다. 이런 경우 공백을 모두 %20으로 대체합니다.</description>
+    </item>
+    <item>
+      <title>참조되지 않는 이미지 찾아 지우기</title>
+      <link>http://localhost:1313/docs/obsidian/tips/%EC%B0%B8%EC%A1%B0%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BE%EC%95%84-%EC%A7%80%EC%9A%B0%EA%B8%B0/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/tips/%EC%B0%B8%EC%A1%B0%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B0%BE%EC%95%84-%EC%A7%80%EC%9A%B0%EA%B8%B0/</guid>
+      <description>Obsidian 자체에는 이러한 기능이 내장되어 있지 않지만, 다음과 같은 방법을 통해 불필요한 이미지 파일을 식별하고 삭제할 수 있습니다.&#xA;플러그인 사용 Obsidian 커뮤니티 플러그인 중에는 파일 관리와 관련된 유용한 플러그인이 있을 수 있습니다.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on My Docs</title>
+    <link>http://localhost:1313/docs/distribution/about/</link>
+    <description>Recent content in About on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/distribution/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StaticSite Manual</title>
+      <link>http://localhost:1313/docs/distribution/about/staticsite-manual/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/about/staticsite-manual/</guid>
+      <description>개요 정적 사이트 방식의 매뉴얼은 미리 생성된 HTML, CSS, JavaScript 파일로 구성된 문서화 시스템입니다. 이러한 매뉴얼은 서버 측에서 동적으로 페이지를 생성하지 않고, 미리 만들어진 파일들을 사용자가 요청할 때 그대로 제공하는 형태로 동작합니다.</description>
+    </item>
+    <item>
+      <title>매뉴얼 종류</title>
+      <link>http://localhost:1313/docs/distribution/about/%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A2%85%EB%A5%98/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/about/%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A2%85%EB%A5%98/</guid>
+      <description>1. HTML 파일 장점 웹 형식 유지: 사용자가 웹에서 보는 것과 동일한 형태로 문서를 볼 수 있습니다. 다양한 디바이스 호환: 대부분의 디바이스에서 쉽게 열람 가능.</description>
+    </item>
+    <item>
+      <title>정적 사이트 방식 매뉴얼</title>
+      <link>http://localhost:1313/docs/distribution/about/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EC%8B%9D-%EB%A7%A4%EB%89%B4%EC%96%BC/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/about/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EC%8B%9D-%EB%A7%A4%EB%89%B4%EC%96%BC/</guid>
+      <description>종류 1. MkDocs 장점 쉬운 설정: Markdown 파일 기반으로 간단하게 설정할 수 있습니다. 빠른 빌드: 빌드 속도가 빠르고, 문서 작성과 유지보수가 간편합니다.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on My Docs</title>
+    <link>http://localhost:1313/docs/distribution/guide/</link>
+    <description>Recent content in Guide on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/distribution/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electron과 Tauri</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron%EA%B3%BC-tauri/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron%EA%B3%BC-tauri/</guid>
+      <description>정적 사이트를 오프라인으로 배포할 때 Electron과 Tauri를 비교해보면, 각 프레임워크는 고유한 장점과 단점을 가지고 있습니다. Tauri가 더 작고 빠른 애플리케이션을 만들 수 있는 반면, Electron은 몇 가지 중요한 이점 때문에 여전히 많은 개발자들에게 선호되고 있습니다.</description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/docs/distribution/guide/mobile/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/mobile/</guid>
+      <description>옵시디언(Obsidian)을 사용하여 프로젝트를 휴고(Hugo)로 빌드하고, 이를 타우리(Tauri)나 일렉트론(Electron)을 사용하여 다시 빌드하여 윈도우용 애플리케이션을 만드는 과정에서 안드로이드(Android)나 아이폰(iPhone)용 앱으로 변환할 수 있는 방법은 다음과 같습니다:</description>
+    </item>
+  </channel>
+</rss>

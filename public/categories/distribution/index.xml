@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distribution on My Docs</title>
+    <link>http://localhost:1313/categories/distribution/</link>
+    <description>Recent content in Distribution on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/distribution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electron 패키징 파일 설정</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron/electron-%ED%8C%A8%ED%82%A4%EC%A7%95-%ED%8C%8C%EC%9D%BC-%EC%84%A4%EC%A0%95/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron/electron-%ED%8C%A8%ED%82%A4%EC%A7%95-%ED%8C%8C%EC%9D%BC-%EC%84%A4%EC%A0%95/</guid>
+      <description>이름 변경 { &amp;#34;name&amp;#34;: &amp;#34;output&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;1.0.0&amp;#34;, &amp;#34;main&amp;#34;: &amp;#34;main.js&amp;#34;, &amp;#34;scripts&amp;#34;: { &amp;#34;start&amp;#34;: &amp;#34;electron .&amp;#34;, &amp;#34;build&amp;#34;: &amp;#34;electron-builder&amp;#34; }, &amp;#34;description&amp;#34;: &amp;#34;&amp;#34;, &amp;#34;devDependencies&amp;#34;: { &amp;#34;electron&amp;#34;: &amp;#34;^30.</description>
+    </item>
+    <item>
+      <title>Electron과 Tauri</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron%EA%B3%BC-tauri/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron%EA%B3%BC-tauri/</guid>
+      <description>정적 사이트를 오프라인으로 배포할 때 Electron과 Tauri를 비교해보면, 각 프레임워크는 고유한 장점과 단점을 가지고 있습니다. Tauri가 더 작고 빠른 애플리케이션을 만들 수 있는 반면, Electron은 몇 가지 중요한 이점 때문에 여전히 많은 개발자들에게 선호되고 있습니다.</description>
+    </item>
+    <item>
+      <title>Electron을 이용한 설치 파일 만들기</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron/electron%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%A4%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron/electron%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%A4%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
+      <description>Electron 프로젝트 설치 Node.js 가 설치되어 있지 않다면, Node.js 설치 새로운 프로젝트 디렉터리를 생성하고 Electron 설치 &amp;gt; mkdir output &amp;gt; cd output &amp;gt; npm init -y &amp;gt; npm install electron --save-dev&#xD;위와 같은 에러가 발생한다면 [Trouble Shooting] 참조 Electron 설정 package.</description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/docs/distribution/guide/mobile/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/mobile/</guid>
+      <description>옵시디언(Obsidian)을 사용하여 프로젝트를 휴고(Hugo)로 빌드하고, 이를 타우리(Tauri)나 일렉트론(Electron)을 사용하여 다시 빌드하여 윈도우용 애플리케이션을 만드는 과정에서 안드로이드(Android)나 아이폰(iPhone)용 앱으로 변환할 수 있는 방법은 다음과 같습니다:</description>
+    </item>
+    <item>
+      <title>StaticSite Manual</title>
+      <link>http://localhost:1313/docs/distribution/about/staticsite-manual/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/about/staticsite-manual/</guid>
+      <description>개요 정적 사이트 방식의 매뉴얼은 미리 생성된 HTML, CSS, JavaScript 파일로 구성된 문서화 시스템입니다. 이러한 매뉴얼은 서버 측에서 동적으로 페이지를 생성하지 않고, 미리 만들어진 파일들을 사용자가 요청할 때 그대로 제공하는 형태로 동작합니다.</description>
+    </item>
+    <item>
+      <title>다국어 지원</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90/</guid>
+      <description>폴더 구조 주의 index.md 파일과 spec/spec.md 파일을 만들고 싶은 경우 docs/ ㄴ index.md ㄴ spec/ ㄴ spec.md 이런 구조로 만들면 site 폴더에는 이렇게 생김</description>
+    </item>
+    <item>
+      <title>데이터 캐싱</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%B1/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%BA%90%EC%8B%B1/</guid>
+      <description>잘안됨&#xA;1. 애플리케이션 데이터 캐싱 일렉트론 애플리케이션에서 로컬 파일 시스템에 캐시 데이터를 저장하고 이를 활용하는 방법을 설명합니다.&#xA;1.1. 사용자 데이터 경로 설정 일렉트론에서는 app.</description>
+    </item>
+    <item>
+      <title>매뉴얼 종류</title>
+      <link>http://localhost:1313/docs/distribution/about/%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A2%85%EB%A5%98/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/about/%EB%A7%A4%EB%89%B4%EC%96%BC-%EC%A2%85%EB%A5%98/</guid>
+      <description>1. HTML 파일 장점 웹 형식 유지: 사용자가 웹에서 보는 것과 동일한 형태로 문서를 볼 수 있습니다. 다양한 디바이스 호환: 대부분의 디바이스에서 쉽게 열람 가능.</description>
+    </item>
+    <item>
+      <title>사용하지 않는 모듈 확인 및 제거</title>
+      <link>http://localhost:1313/docs/distribution/guide/electron/%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AA%A8%EB%93%88-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%A0%9C%EA%B1%B0/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/electron/%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AA%A8%EB%93%88-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%A0%9C%EA%B1%B0/</guid>
+      <description>프로젝트에서 사용하지 않는 모듈을 확인하고 제거하는 방법에는 몇 가지가 있습니다. 이를 위해 여러 도구와 방법을 사용할 수 있습니다. 여기서는 depcheck라는 도구를 사용하여 사용하지 않는 모듈을 확인하고, npm을 사용하여 해당 모듈을 제거하는 방법을 설명하겠습니다.</description>
+    </item>
+    <item>
+      <title>설치</title>
+      <link>http://localhost:1313/docs/distribution/guide/tauri/%EC%84%A4%EC%B9%98/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/distribution/guide/tauri/%EC%84%A4%EC%B9%98/</guid>
+      <description>Rust 설치 https://www.rust-lang.org/ 에서 다운로드 후 설치합니다. 설치 여부 확인을 위해 버전을 확인합니다. &amp;gt; rustc --version rustc 1.78.0 (9b00956e5 2024-04-29) &amp;gt; cargo --version cargo 1.</description>
+    </item>
+  </channel>
+</rss>

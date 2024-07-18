@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MkDocs on My Docs</title>
+    <link>http://localhost:1313/docs/staticsite/guide/mkdocs/</link>
+    <description>Recent content in MkDocs on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:32:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/staticsite/guide/mkdocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MkDocs 테마 변경</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/mkdocs-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/mkdocs-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD/</guid>
+      <description>기본테마 기본 테마는 mkdocs, readthedocs 등 &amp;lsquo;mkdocs.yml&amp;rsquo; 파일 수정 site_name: KCT_Manual theme: name: readthedocs&#xD;커스텀 테마 Meterial 테마 테마 설치 &amp;gt; pip install mkdocs-material&#xD;&amp;lsquo;mkdocs.</description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/tips/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/tips/</guid>
+      <description>다크모드를 기본으로 바꾸는 법&#xA;theme: name: material palette: - scheme: slate # 다크 모드를 기본으로 설정 primary: indigo accent: indigo toggle: icon: material/brightness-4 name: Switch to light mode - scheme: default primary: indigo accent: indigo toggle: icon: material/brightness-7 name: Switch to dark mode font: text: Roboto code: Roboto Mono extra_css: - css/custom.</description>
+    </item>
+    <item>
+      <title>다국어 지원</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90/</guid>
+      <description>1. 플러그인 설치 mkdocs-static-i18n 플러그인 설치 `pip install mkdocs-static-i18n`&#xD;MkDocs 수정 theme: name: material features: - i18n&#xD;features.i18n : 다국어 지원을 위한 기본적인 설정 제공 다국어 전환 메뉴 표시: 드롭다운 메뉴를 통해 사용자가 언어 전환 가능 이 기능은 기본적으로 제공되지만, i18n 설정을 통해 테마에서 더욱 정교하게 관리 가능 언어별 스타일 및 설정: 각 언어에 대한 특정 스타일이나 설정 적용 가능 텍스트 방향이나 언어별 폰트 설정 등.</description>
+    </item>
+    <item>
+      <title>설치</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%84%A4%EC%B9%98/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%84%A4%EC%B9%98/</guid>
+      <description>1. Python 설치 MkDocs는 Python으로 작성되어 있으므로, 먼저 Python 설치&#xA;Python 공식 사이트에서 최신 버전 다운로드 설치 프로그램을 실행하고, &amp;ldquo;Add Python to PATH&amp;rdquo; 옵션을 체크한 후 &amp;ldquo;Install Now&amp;quot;클릭 2.</description>
+    </item>
+    <item>
+      <title>작성</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%9E%91%EC%84%B1/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%9E%91%EC%84%B1/</guid>
+      <description>1. MkDocs 설정 파일 수정 MkDocs의 설정 파일인 mkdocs.yml을 수정하여 사이트 구성 가능&#xA;편집기를 이용하여 프로젝트 디렉터리의 mkdocs.yml 파일 오픈 구성 예시 site_name: KCT Manual nav: - Home: index.</description>
+    </item>
+    <item>
+      <title>참조경로 확인</title>
+      <link>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%B0%B8%EC%A1%B0%EA%B2%BD%EB%A1%9C-%ED%99%95%EC%9D%B8/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/staticsite/guide/mkdocs/%EC%B0%B8%EC%A1%B0%EA%B2%BD%EB%A1%9C-%ED%99%95%EC%9D%B8/</guid>
+      <description>참조 경로 확인 site 폴더의 index.html 을 실행하여, 다른 경로로 이동해보자 이동이 안될 수 있는데 MkDocs를 사용하여 정적 사이트를 빌드하고, 로컬 파일 시스템에서 index.</description>
+    </item>
+  </channel>
+</rss>

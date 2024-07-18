@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/%EB%8C%80%EB%AC%B8-%EB%B3%80%EA%B2%BD/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/config.toml/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/contributors-error/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/mediatype-parsing-%EC%97%90%EB%9F%AC/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/staticsite/guide/hugo/doks-theme/%ED%85%8C%EB%A7%88-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0/</loc>
+      <lastmod>2024-07-18T09:32:01+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

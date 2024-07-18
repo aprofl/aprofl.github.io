@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on My Docs</title>
+    <link>http://localhost:1313/docs/obsidian/about/</link>
+    <description>Recent content in About on My Docs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Hyas</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 09:43:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/obsidian/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>노트 정리 방식</title>
+      <link>http://localhost:1313/docs/obsidian/about/%EB%85%B8%ED%8A%B8-%EC%A0%95%EB%A6%AC-%EB%B0%A9%EC%8B%9D/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/about/%EB%85%B8%ED%8A%B8-%EC%A0%95%EB%A6%AC-%EB%B0%A9%EC%8B%9D/</guid>
+      <description>노트정리 방식 소개 노트 정리 방식은 다양한 사용 목적에 따라 다를 수 있습니다. 시간 순서대로, 또는 주제별로 정리하는 것도 좋지만, 다음 몇 가지 주요 노트 정리 방식을 참조하여 자신에게 맞는 정리 방식을 선택하는 것도 나쁘지 않습니다.</description>
+    </item>
+    <item>
+      <title>사용방법</title>
+      <link>http://localhost:1313/docs/obsidian/about/%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/about/%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/</guid>
+      <description>개요 Obsidian은 다양한 목적에 맞춰 사용하기에 매우 유용한 도구입니다. 노트 관리 목적으로만 사용해도 충분히 매력적이며, 일명 세컨드 브레인이라고 유행하고 있는 개인 지식 관리 목적에 가장 부합하는 툴이라 생각합니다.</description>
+    </item>
+    <item>
+      <title>옵시디언이란</title>
+      <link>http://localhost:1313/docs/obsidian/about/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%B4%EB%9E%80/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/about/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%B4%EB%9E%80/</guid>
+      <description>옵시디언 소개 옵시디언(Obsidian)은 생산성을 극대화하는 최상의 노트 관리 도구로, 개인 지식 관리(PKM) 시스템을 구축하는 데 최적화된 소프트웨어입니다. 마크다운 기반이며, 각 노트가 독립적으로 존재하면서도 유기적으로 연결될 수 있어, 복잡한 정보와 아이디어를 효율적으로 관리하고 시각화할 수 있습니다.</description>
+    </item>
+    <item>
+      <title>정리의 함점</title>
+      <link>http://localhost:1313/docs/obsidian/about/%EC%A0%95%EB%A6%AC%EC%9D%98-%ED%95%A8%EC%A0%90/</link>
+      <pubDate>Fri, 21 Jun 2024 02:01:21 +0000</pubDate>
+      <guid>http://localhost:1313/docs/obsidian/about/%EC%A0%95%EB%A6%AC%EC%9D%98-%ED%95%A8%EC%A0%90/</guid>
+      <description>노트를 정리하는 것은 매우 유용한 습관이지만, 과도한 정리 강박증은 오히려 노트 관리의 효율성을 떨어뜨리고 유지 관리를 어렵게 만들 수 있습니다. Obsidian과 같은 노트 관리 도구를 사용할 때, 지나치게 복잡한 구조와 규칙을 만들면 정리 자체가 스트레스가 될 수 있습니다.</description>
+    </item>
+  </channel>
+</rss>
