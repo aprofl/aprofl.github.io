@@ -12,25 +12,29 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-      with:
-        submodules: true  # 서브모듈 초기화
 
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '20.15.1'  # Node.js 버전 설정
-
-    - name: Install dependencies
-      run: npm ci  # package.json과 package-lock.json을 기반으로 종속성 설치
+        node-version: '20.15.1'
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.127.0'
-        extended: true  # Extended 버전을 사용하도록 설정
+        extended: true
+
+    - name: List image files for debugging
+      run: |
+        echo "Listing image files in /Resources:"
+        find . -type f -name "edit_environment_variables.png"
+        echo "Listing image files in /content/Resources:"
+        find ./content -type f -name "edit_environment_variables.png"
+        echo "Listing image files in /static/Resources:"
+        find ./static -type f -name "edit_environment_variables.png"
 
     - name: Build
-      run: npm run build
+      run: hugo --minify --gc
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
